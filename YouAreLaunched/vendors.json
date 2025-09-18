@@ -1,0 +1,216 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "company_name": "ABC Hair Studio",
+      "area_served": "New York",
+      "shop_type": "barbershop",
+      "favorited": true,
+      "follow": false,
+      "business_type": "service",
+      "cover_photo": {
+        "id": 101,
+        "media_url": "https://cdn.pixabay.com/photo/2020/07/06/13/21/mercedes-benz-5377019_1280.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 10,
+          "name": "Haircut",
+          "image": {
+            "id": 201,
+            "media_url": "https://example.com/images/haircut.png",
+            "media_type": "icon"
+          }
+        },
+        {
+          "id": 11,
+          "name": "Beard Trim",
+          "image": {
+            "id": 202,
+            "media_url": "https://example.com/images/beard.png",
+            "media_type": "icon"
+          }
+        }
+      ],
+      "tags": [
+        { "id": 301, "name": "Men", "purpose": "target" },
+        { "id": 302, "name": "Classic", "purpose": "style" }
+      ]
+    },
+    {
+      "id": 2,
+      "company_name": "Fresh Cuts",
+      "area_served": "Los Angeles",
+      "shop_type": "salon",
+      "favorited": false,
+      "follow": true,
+      "business_type": "service",
+      "cover_photo": {
+        "id": 102,
+        "media_url": "https://cdn.pixabay.com/photo/2020/07/06/13/21/mercedes-benz-5377019_1280.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 12,
+          "name": "Coloring",
+          "image": {
+            "id": 203,
+            "media_url": "https://example.com/images/coloring.png",
+            "media_type": "icon"
+          }
+        }
+      ],
+      "tags": [
+        { "id": 303, "name": "Unisex", "purpose": "target" },
+        { "id": 304, "name": "Trendy", "purpose": "style" }
+      ]
+    },
+    {
+      "id": 3,
+      "company_name": "Fresh",
+      "area_served": "Los",
+      "shop_type": "salon",
+      "favorited": false,
+      "follow": true,
+      "business_type": "service",
+      "cover_photo": {
+        "id": 103,
+        "media_url": "https://cdn.pixabay.com/photo/2020/07/06/13/21/mercedes-benz-5377019_1280.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 14,
+          "name": "Coloring",
+          "image": {
+            "id": 205,
+            "media_url": "https://example.com/images/coloring.png",
+            "media_type": "icon"
+          }
+        }
+      ],
+      "tags": [
+        { "id": 305, "name": "Unisex", "purpose": "target" },
+        { "id": 306, "name": "Trendy", "purpose": "style" }
+      ]
+    },
+    {
+      "id": 4,
+      "company_name": "Cake",
+      "area_served": "Angeles",
+      "shop_type": "salon",
+      "favorited": true,
+      "follow": true,
+      "business_type": "service",
+      "cover_photo": {
+        "id": 104,
+        "media_url": "https://cdn.pixabay.com/photo/2020/07/06/13/21/mercedes-benz-5377019_1280.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 16,
+          "name": "Coloring",
+          "image": {
+            "id": 208,
+            "media_url": "https://example.com/images/coloring.png",
+            "media_type": "icon"
+          }
+        }
+      ],
+      "tags": [
+        { "id": 308, "name": "Unisex", "purpose": "target" },
+        { "id": 310, "name": "Trendy", "purpose": "style" }
+      ]
+    },
+    {
+      "id": 5,
+      "company_name": "Studio",
+      "area_served": "Kyiv",
+      "shop_type": "salon",
+      "favorited": false,
+      "follow": true,
+      "business_type": "service",
+      "cover_photo": {
+        "id": 124,
+        "media_url": "https://cdn.pixabay.com/photo/2020/07/06/13/21/mercedes-benz-5377019_1280.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 20,
+          "name": "Coloring",
+          "image": {
+            "id": 212,
+            "media_url": "https://example.com/images/coloring.png",
+            "media_type": "icon"
+          }
+        }
+      ],
+      "tags": [
+        { "id": 320, "name": "Unisex", "purpose": "target" },
+        { "id": 322, "name": "Trendy", "purpose": "style" }
+      ]
+    },
+    {
+      "id": 6,
+      "company_name": "Bakery",
+      "area_served": "Germany",
+      "shop_type": "salon",
+      "favorited": true,
+      "follow": true,
+      "business_type": "service",
+      "cover_photo": {
+        "id": 114,
+        "media_url": "https://cdn.pixabay.com/photo/2020/07/06/13/21/mercedes-benz-5377019_1280.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 22,
+          "name": "Coloring",
+          "image": {
+            "id": 222,
+            "media_url": "https://example.com/images/coloring.png",
+            "media_type": "icon"
+          }
+        }
+      ],
+      "tags": [
+        { "id": 324, "name": "Unisex", "purpose": "target" },
+        { "id": 326, "name": "Trendy", "purpose": "style" }
+      ]
+    },
+    {
+      "id": 7,
+      "company_name": "Candy",
+      "area_served": "Toronto",
+      "shop_type": "salon",
+      "favorited": true,
+      "follow": true,
+      "business_type": "service",
+      "cover_photo": {
+        "id": 116,
+        "media_url": "https://cdn.pixabay.com/photo/2020/07/06/13/21/mercedes-benz-5377019_1280.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 24,
+          "name": "Coloring",
+          "image": {
+            "id": 226,
+            "media_url": "https://example.com/images/coloring.png",
+            "media_type": "icon"
+          }
+        }
+      ],
+      "tags": [
+        { "id": 328, "name": "Unisex", "purpose": "target" },
+        { "id": 330, "name": "Trendy", "purpose": "style" }
+      ]
+    }
+  ]
+}
